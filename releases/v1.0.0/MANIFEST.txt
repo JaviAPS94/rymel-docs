@@ -1,0 +1,16 @@
+Snapshot del paquete documental Rymel
+======================================
+Versión:       v1.0.0
+Fecha:         2026-05-06 22:20:09 -0500
+Generado por:  alex.pinaida @ ECC02FV1JPQ05P.local
+Archivos:      5
+
+Contenido:
+  01_Especificacion_Requerimientos_SRS.md (44036 bytes)
+  02_Arquitectura_Tecnica.md (19609 bytes)
+  03_Especificacion_Funcional_Modulos.md (16716 bytes)
+  04_Estructura_Web_y_Plan_Fases.md (14596 bytes)
+  README.md (4835 bytes)
+
+Este snapshot es INMUTABLE. Cualquier corrección debe aplicarse a los
+documentos vivos en docs/ y publicarse como una nueva versión.
